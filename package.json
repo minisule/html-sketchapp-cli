@@ -1,6 +1,6 @@
 {
   "name": "html-sketchapp-cli-pseudo-classes",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Quickly generate Sketch libraries from HTML documents and living style guides, powered by html-sketchapp",
   "main": "index.js",
   "engines": {
